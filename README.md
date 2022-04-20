@@ -5,6 +5,8 @@ A saber o Gradle é o gerenciador de dependência oficial do Android.
 
 
 
+![Gradle](Gradle.png)
+
 
 ## 📺 Link dos vídeos
 
